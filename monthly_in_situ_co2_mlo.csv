@@ -51,7 +51,7 @@
 " Column 5 have been filled with values from Column 7.  Column 10 is identical to Column 6  "
 " except missing values have been filled with values from Column 8.  Missing values are     "
 " denoted by -99.99                                                                         "
-"                                                 "
+"                                                                                           "
 " Column 11 is the 3-digit sampling station identifier.  MLO refers to the Mauna Loa Observatory."
 " MKO refers the summit of nearby Maunakea. MKO data are used to a fill a gap created by the 2022"
 " eruption of Mauna Loa, which led to the shutdown measurements by the Scripps CO2 program at MLO"
