@@ -58,7 +58,6 @@
 " from Dec 2022 through Feb 2023"
 "                                                                                           "
 " CO2 concentrations are measured on the '12' calibration scale                             "
-"                                                                                           "
   Yr, Mn,    Date,      Date,     CO2,seasonally,        fit,  seasonally,      CO2, seasonally, Sta
     ,   ,        ,          ,        ,  adjusted,           ,adjusted fit,   filled,adjusted filled
     ,   ,   Excel,          ,   [ppm],    [ppm] ,      [ppm],    [ppm],       [ppm],    [ppm]
